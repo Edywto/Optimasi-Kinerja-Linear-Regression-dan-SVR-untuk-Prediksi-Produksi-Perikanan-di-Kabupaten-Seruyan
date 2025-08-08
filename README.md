@@ -1,0 +1,2 @@
+# Optimasi-Kinerja-Linear-Regression-dan-SVR-untuk-Prediksi-Produksi-Perikanan-di-Kabupaten-Seruyan
+Repository ini berisi source code yang digunakan untuk melakukan optimasi kinerja Linear Regression dan Support Vector Regression (SVR) dalam memprediksi produksi perikanan di Kabupaten Seruyan. Penelitian ini bertujuan untuk meningkatkan akurasi prediksi produksi perikanan dengan menggunakan teknik regresi yang dioptimasi.
